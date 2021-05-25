@@ -1,4 +1,4 @@
-baseURL = "https://peaceful-leavitt-d83207.netlify.app/"
+baseURL = "https://deee.dev/"
 languageCode = "en-us"
 title = "dee's thoughts"
 theme = "solar-theme-hugo"
@@ -10,7 +10,7 @@ theme = "solar-theme-hugo"
 [menu]
   [[menu.main]]
     name = "Feed"
-    url = "https://peaceful-leavitt-d83207.netlify.app/posts/"
+    url = "https://deee.dev/posts/"
   [[menu.main]]
     name = "Repository"
     url = "https://github.com/dl-watson/dee-thoughts"
