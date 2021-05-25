@@ -1,8 +1,7 @@
-baseURL = "http://deee.dev/"
+baseURL = "https://deee.dev/"
 languageCode = "en-us"
 title = "dee's thoughts"
 theme = "solar-theme-hugo"
-
 
 [params]
   scheme = "preference" # light, dark, gray or preference
@@ -11,13 +10,7 @@ theme = "solar-theme-hugo"
 [menu]
   [[menu.main]]
     name = "Feed"
-    url = "/index.xml"
+    url = "http://localhost:1313/posts/"
   [[menu.main]]
     name = "Repository"
-    url = "https://github.com/bake/solar-theme-hugo/"
-  [[menu.other]]
-    name = "Hugo"
-    url = "https://themes.gohugo.io/solar-theme-hugo/"
-  [[menu.other]]
-    name = "Demo"
-    url = "https://themes.gohugo.io/theme/solar-theme-hugo/"
+    url = "https://github.com/dl-watson/dee-thoughts"
