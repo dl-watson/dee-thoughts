@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://deee.dev/categories/</loc>
+    <loc>https://deee.dev/</loc>
+    <lastmod>2021-05-24T11:18:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deee.dev/</loc>
+    <loc>https://deee.dev/posts/my-second-post/</loc>
+    <lastmod>2021-05-24T11:18:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deee.dev/posts/</loc>
+    <lastmod>2021-05-24T11:18:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deee.dev/posts/my-first-post/</loc>
+    <lastmod>2021-05-24T11:10:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deee.dev/categories/</loc>
   </url>
   
   <url>
