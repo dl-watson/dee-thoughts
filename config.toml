@@ -10,7 +10,7 @@ theme = "solar-theme-hugo"
 [menu]
   [[menu.main]]
     name = "Feed"
-    url = "http://localhost:1313/posts/"
+    url = "https://deee.dev/posts/"
   [[menu.main]]
     name = "Repository"
     url = "https://github.com/dl-watson/dee-thoughts"
