@@ -2,5 +2,6 @@ a,
 a:active,
 a:visited {
 	text-decoration: none;
-	border-bottom: 1px solid #839496;
+	border-bottom: 1px solid #839496; 
+    padding: none !important;
 }
