@@ -6,7 +6,7 @@ theme = "solar-theme-hugo"
 [params]
   scheme = "preference" # light, dark, gray or preference
   description = "baby's first blog"
-  css = ["css/custom.css"]
+  custom_css = ["css/custom.css"]
 
 [menu]
   [[menu.main]]
