@@ -6,9 +6,22 @@
     <description>Recent content on dee&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 12:09:35 -0700</lastBuildDate>
     
 	<atom:link href="https://deee.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>first post</title>
+      <link>https://deee.dev/first-post/</link>
+      <pubDate>Wed, 26 May 2021 12:09:35 -0700</pubDate>
+      
+      <guid>https://deee.dev/first-post/</guid>
+      <description>hey y&amp;rsquo;all, thanks for visiting
+i&amp;rsquo;m hoping that having a place to do blogging will serve as a motivator to, y&amp;rsquo;know, do blogging
+it&amp;rsquo;s been difficult as someone very new to the tech world to convince myself that i have anything meaningful to offer, but hey, maybe not everything has to be meaningful or marketable, and maybe i can just be playful
+alright. okay. that&amp;rsquo;s doable.</description>
+    </item>
     
   </channel>
 </rss>
