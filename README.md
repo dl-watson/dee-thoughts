@@ -9,7 +9,7 @@ to run the hugo server
 
 #### theme
 
-the current theme is [solar-theme-hugo](https://github.com/bake/solar-theme-hugo)
+the current theme is [terminal](https://github.com/panr/hugo-theme-terminal)
 
 #### more
 
