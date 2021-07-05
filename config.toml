@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://notnotdee.dev/"
 languageCode = "en-us"
 title = "dee's thoughts"
 theme = "terminal"

@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://notnotdee.dev/</loc>
     <lastmod>2021-07-04T16:58:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/first-post/</loc>
+    <loc>https://notnotdee.dev/posts/first-post/</loc>
     <lastmod>2021-07-04T16:58:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://notnotdee.dev/posts/second-post/</loc>
     <lastmod>2021-07-04T16:58:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://notnotdee.dev/posts/</loc>
+    <lastmod>2021-07-04T16:58:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://notnotdee.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://notnotdee.dev/tags/</loc>
   </url>
   
 </urlset>

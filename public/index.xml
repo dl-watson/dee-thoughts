@@ -2,19 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dee&#39;s thoughts</title>
-    <link>/</link>
+    <link>https://notnotdee.dev/</link>
     <description>Recent content on dee&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jul 2021 16:58:31 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2021 16:58:31 -0700</lastBuildDate><atom:link href="https://notnotdee.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>/posts/first-post/</link>
+      <link>https://notnotdee.dev/posts/first-post/</link>
       <pubDate>Sun, 04 Jul 2021 16:58:31 -0700</pubDate>
       
-      <guid>/posts/first-post/</guid>
-      <description>first post?</description>
-      <content>&lt;p&gt;first post?&lt;/p&gt;
+      <guid>https://notnotdee.dev/posts/first-post/</guid>
+      <description>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod quae cum error. Quaerat quos doloribus aliquam natus dignissimos quam, totam maiores, eligendi dolorum ex animi nulla vitae laudantium enim ipsum. Possimus impedit nihil aliquam. Dolore mollitia, veritatis facilis fugiat facere sint voluptatem neque quo ratione, alias assumenda ad sequi perspiciatis natus. Excepturi asperiores similique porro aliquam facilis, soluta eum maxime.
+Porro culpa consequuntur doloribus impedit deserunt rem reprehenderit molestiae harum unde voluptates, inventore cum quod obcaecati, cupiditate officiis?</description>
+      <content>&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod quae cum error. Quaerat quos doloribus aliquam natus dignissimos quam, totam maiores, eligendi dolorum ex animi nulla vitae laudantium enim ipsum.
+Possimus impedit nihil aliquam. Dolore mollitia, veritatis facilis fugiat facere sint voluptatem neque quo ratione, alias assumenda ad sequi perspiciatis natus. Excepturi asperiores similique porro aliquam facilis, soluta eum maxime.&lt;/p&gt;
+&lt;p&gt;Porro culpa consequuntur doloribus impedit deserunt rem reprehenderit molestiae harum unde voluptates, inventore cum quod obcaecati, cupiditate officiis? Officia placeat iusto saepe odio id autem molestias praesentium assumenda aperiam facere.&lt;/p&gt;
+&lt;p&gt;Quia dolorem fuga praesentium unde neque, veritatis quidem dolor nemo beatae iste, eligendi qui veniam suscipit, corporis temporibus laudantium expedita accusamus amet assumenda. Praesentium ipsum non nesciunt iusto. Id, cupiditate.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://notnotdee.dev/posts/second-post/</link>
+      <pubDate>Sun, 04 Jul 2021 16:58:31 -0700</pubDate>
+      
+      <guid>https://notnotdee.dev/posts/second-post/</guid>
+      <description>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod quae cum error. Quaerat quos doloribus aliquam natus dignissimos quam, totam maiores, eligendi dolorum ex animi nulla vitae laudantium enim ipsum. Possimus impedit nihil aliquam. Dolore mollitia, veritatis facilis fugiat facere sint voluptatem neque quo ratione, alias assumenda ad sequi perspiciatis natus. Excepturi asperiores similique porro aliquam facilis, soluta eum maxime.
+Porro culpa consequuntur doloribus impedit deserunt rem reprehenderit molestiae harum unde voluptates, inventore cum quod obcaecati, cupiditate officiis?</description>
+      <content>&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod quae cum error. Quaerat quos doloribus aliquam natus dignissimos quam, totam maiores, eligendi dolorum ex animi nulla vitae laudantium enim ipsum.
+Possimus impedit nihil aliquam. Dolore mollitia, veritatis facilis fugiat facere sint voluptatem neque quo ratione, alias assumenda ad sequi perspiciatis natus. Excepturi asperiores similique porro aliquam facilis, soluta eum maxime.&lt;/p&gt;
+&lt;p&gt;Porro culpa consequuntur doloribus impedit deserunt rem reprehenderit molestiae harum unde voluptates, inventore cum quod obcaecati, cupiditate officiis? Officia placeat iusto saepe odio id autem molestias praesentium assumenda aperiam facere.&lt;/p&gt;
+&lt;p&gt;Quia dolorem fuga praesentium unde neque, veritatis quidem dolor nemo beatae iste, eligendi qui veniam suscipit, corporis temporibus laudantium expedita accusamus amet assumenda. Praesentium ipsum non nesciunt iusto. Id, cupiditate.&lt;/p&gt;
 </content>
     </item>
     
