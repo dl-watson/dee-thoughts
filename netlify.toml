@@ -3,4 +3,4 @@ publish = "public"
 command = "git submodule update --force --recursive --init --remote && hugo server -t terminal"
 
 [build.environment]
-HUGO_VERSION = "0.68.3"
+HUGO_VERSION = "0.84.4"
