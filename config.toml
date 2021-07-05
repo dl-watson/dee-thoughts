@@ -64,7 +64,7 @@ paginate = 5
     [menu]
       [[menu.main]]
         name = "home/"
-        # url = "https://notnotdee.dev/"
+        url = "https://notnotdee.dev/"
       [[menu.main]]
         name = "src/"
         url = "https://github.com/notnotdee/dee-thoughts"
