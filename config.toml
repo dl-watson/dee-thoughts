@@ -42,6 +42,14 @@ paginate = 5
   [logo]
     logoText = "hello"
 
+  [show-related]
+    docs = false
+    page = false
+    post = false
+    project = false
+    publication = false
+    talk = false
+
 [languages]
   [languages.en]
     languageName = "English"

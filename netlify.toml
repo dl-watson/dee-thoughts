@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo server -t terminal"
+command = "git submodule update --force --recursive --init --remote && hugo server -t terminal"
 
 [build.environment]
 HUGO_VERSION = "0.68.3"
